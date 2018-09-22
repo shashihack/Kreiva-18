@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 35.555">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c2e8e7"/>
+      <stop offset="1" stop-color="#abaefb"/>
+    </linearGradient>
+  </defs>
+  <g id="event" transform="translate(-21.333)">
+    <g id="Group_62" data-name="Group 62" transform="translate(21.333)">
+      <g id="Group_61" data-name="Group 61" transform="translate(0)">
+        <path id="Path_112" data-name="Path 112" class="cls-1" d="M49.777,3.556H48V0H44.444V3.556H30.222V0H26.666V3.556H24.889a3.539,3.539,0,0,0-3.538,3.556L21.333,32a3.555,3.555,0,0,0,3.556,3.556H49.777A3.555,3.555,0,0,0,53.333,32V7.111A3.555,3.555,0,0,0,49.777,3.556Zm0,28.444H24.889V12.444H49.777Z" transform="translate(-21.333)"/>
+        <path id="Path_113" data-name="Path 113" class="cls-1" d="M131.626,193.884,129.742,192l-8.676,8.676-3.769-3.769-1.885,1.884,5.653,5.653Z" transform="translate(-107.573 -176)"/>
+      </g>
+    </g>
+  </g>
+</svg>
